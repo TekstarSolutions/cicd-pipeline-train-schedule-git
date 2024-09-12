@@ -3,5 +3,5 @@
 print ("welcome to a python script")
   
 
-These are some commans when using python script
+These are some commands when using python script.
 
